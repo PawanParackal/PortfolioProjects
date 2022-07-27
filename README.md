@@ -36,5 +36,10 @@ MSSQL data cleaning and analysis project
 + data analysis challenges for Books and Authors
 + Udemy Course: [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
 
+## [Mid Summer Night Dream Project](Database%20Clinics%20-%20MySQL/03.Mid%20Summer%20Night%20Dream)
+MySQL and python project for analyzing Shakespeare's Mid Summer Night Dream play texts and characters
++ loading information for analyzing purpose
++ calcuating performance different queriy types such as SELECT, INSERT, UPDATE, DELETE
++ manipulating plays and characters
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
