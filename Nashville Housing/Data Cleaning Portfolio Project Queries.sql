@@ -282,19 +282,3 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
 --    'Excel 12.0; Database=C:\Users\alexf\OneDrive\Documents\SQL Server Management Studio\Nashville Housing Data for Data Cleaning Project.csv', [Sheet1$]);
 --GO
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
